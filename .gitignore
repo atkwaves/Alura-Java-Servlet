@@ -1,0 +1,22 @@
+##############################
+## Eclipse
+##############################
+.settings/
+bin/
+tmp/
+/.metadata/
+/Servers/
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath/
+.factorypath/
+editorconfig
+
+# maven project related ignore files and directories  
+.mvn/  
+target/  
