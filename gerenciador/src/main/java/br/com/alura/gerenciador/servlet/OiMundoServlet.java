@@ -20,7 +20,7 @@ public class OiMundoServlet extends HttpServlet {
 		out.println("Oi mundo, parabéns você escreveu o primeiro servlets.");
 		out.println("</body>");
 		out.println("</html>");
-		
+
 		System.out.println("O servlet OiMundoServlet foi chamado!");
 	}
 }
