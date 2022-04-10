@@ -16,7 +16,7 @@ local.properties
 .loadpath/
 .factorypath/
 editorconfig
-
+/gerenciador/src/main/WebContent/WEB-INF/lib
 # maven project related ignore files and directories  
 .mvn/  
 target/  
